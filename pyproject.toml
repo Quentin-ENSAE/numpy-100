@@ -1,0 +1,11 @@
+[project]
+name = "numpy-100"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "generators>=2020.4.27",
+    "mdutils>=1.8.1",
+    "nbformat>=5.10.4",
+]
